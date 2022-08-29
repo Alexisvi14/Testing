@@ -1,0 +1,12 @@
+pages/ForgotPasswordPage.class
+pages/HomePage.class
+pages/DropdownPage.class
+pages/SecureAreaPage.class
+pages/AlertPage.class
+pages/KeyPresses.class
+pages/FileUploadPage.class
+pages/HorizontalSliderPage.class
+pages/LoginPage.class
+pages/HoversPage.class
+pages/EmailPage.class
+pages/HoversPage$FigureCaption.class
